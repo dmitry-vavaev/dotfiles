@@ -1,0 +1,7 @@
+{
+  "task-plan": {
+    "prefix": "taskp",
+    "body": ["\n= Description: =\n\n= Plan: =\n\n - [ ] ...\n\n\n= Notes =\n - ..."],
+    "description": "Add task template"
+  }
+}
